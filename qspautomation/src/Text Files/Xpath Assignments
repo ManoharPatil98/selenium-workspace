@@ -1,0 +1,15 @@
+1. WAS to automate calculator.net .
+	1. perform 4 arithmetic operations.
+	2. verify/compare expected result with actual result.
+
+2. WAS to automate flipkart.com .
+	1. search for flipkart.
+	2. wait for popup and click on X(cross) to remove popup.
+	3. and perform above script.	
+
+3. WAS to automate flipkart.com
+	1. search for/type laptop in searchbox.
+	2. apply/select some 3 filters like - processor, brand , etc.
+	3. search.
+	4. get the price of first suggestion.
+
